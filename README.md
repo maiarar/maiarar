@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hi there! I’m Mai, from Brazil 🇧🇷 <br><br>
+<p align="left">Hi there! I’m <b>Mai Rodrigues, from Brazil </b>. 🇧🇷 <br><br>
 I am a Developer focused on SDET and Backend Development, driven by the curiosity of understanding how things work "under the hood." I believe in building software that is efficient, transparent, and ethically grounded.<br>
 <br>
 - 🔭 <b>Professional moment</b>: currently transitioning to new challenges, seeking roles where I can apply test automation to ensure high-quality, scalable delivery cycles.<br>
@@ -27,9 +27,11 @@ I am a Developer focused on SDET and Backend Development, driven by the curiosit
 <br>
 - 🌴 <b>In my free time</b>: I am deeply connected to my spirituality and social justice causes. I also have a great appreciation for art and spending time in nature.<br>
 <br>
----
+<hr>
 
 <h4 align="center"><i>I see technology as a powerful tool for autonomy, privacy, and social transformation.</i></p>
+
+<hr>
 
 ###
 
